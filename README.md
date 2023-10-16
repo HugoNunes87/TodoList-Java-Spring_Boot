@@ -14,8 +14,6 @@
 
 ## 💻 Projeto
 
-Projeto com tela de login,cadastro e Dashboard, utilizando MySQL e API'S
-
 
   
  ### ✅ Demonstração
