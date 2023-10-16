@@ -5,12 +5,6 @@
   🚧  Finalizado  🚧
 </h3>
 
-<p align="center">
-  <a href="#-pré-requisitos">Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-configurando-banco-de-dados">Banco de Dados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-bibliotecas-usadas">Bibliotecas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Lincença</a>
-</p>
 
 ## 💻 Projeto
 
@@ -35,7 +29,7 @@
 
 
 
-## 🚀 Bibliotecas usadas
+## 🚀 
 
 * JAVA 17
 * Sprign Boot
